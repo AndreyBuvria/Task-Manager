@@ -1,0 +1,19 @@
+.form-alert > span {
+    display: none;
+}
+
+.form-alert__succ {
+    color: #008000;
+}
+
+.form-alert__wrong {
+    color: #ff000f;
+}
+
+.tasks {
+    margin-top: 100px;
+}
+
+.task {
+    margin-bottom: 40px;
+}
