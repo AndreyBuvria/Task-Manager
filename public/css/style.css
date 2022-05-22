@@ -17,3 +17,12 @@
 .task {
     margin-bottom: 40px;
 }
+
+.task-completed h2 {
+    text-decoration: line-through;
+}
+
+.card-body h4 {
+    white-space: nowrap;
+    margin-right: 100px;
+}
